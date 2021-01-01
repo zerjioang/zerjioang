@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### Cyber Security & Blockchain Researcher
+
 <!--
 **zerjioang/zerjioang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
