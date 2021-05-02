@@ -2,6 +2,8 @@
 
 #### Cyber Security & Blockchain Researcher
 
+- 💬 Ephemeral writer at https://curiousstuff.eu/
+
 <!--
 **zerjioang/zerjioang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
