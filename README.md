@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-Intermediate-green)
 ![ASM](https://img.shields.io/badge/Assembly-Beginner-yellow)
 
-Computer Science alumnus at [University of Deusto](https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto). Cyber Security researcher at Tecnalia Research & Innovation (https://www.tecnalia.com/). Proudly from [Bilbao, Basque Country](https://www.basquecountry.eus/inicio/)
+Computer Science alumnus at [University of Deusto](https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto). Cyber Security researcher at [Tecnalia Research & Innovation](https://www.tecnalia.com/). Proudly from [Bilbao, Basque Country](https://www.basquecountry.eus/inicio/)
 
 - Bachelor's degree in **Computer Science** at University of Deusto
 - I’m currently **Cyber Security** researcher at Tecnalia
