@@ -19,7 +19,7 @@ Computer Science alumnus at [University of Deusto](https://www.deusto.es/cs/Sate
 ### 📬 Get in Touch
 
 - GitHub: https://github.com/zerjioang
-- Site: https://curiousstuff.eu
+- Personal Blog: https://curiousstuff.eu
 
 ### 📚 Looking for my Resume? E-Mail me!
 
