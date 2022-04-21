@@ -9,12 +9,18 @@
 
 Computer Science alumnus at [University of Deusto](https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto). Cyber Security researcher at [Tecnalia Research & Innovation](https://www.tecnalia.com/). Proudly from [Bilbao, Basque Country](https://www.basquecountry.eus/inicio/)
 
+### 🔨 Some background
+
 - Bachelor's degree in **Computer Science** at University of Deusto
 - Master's degree in **Computer Science & Big Data** at University of Deusto
 - I’m currently working as **Cyber Security** researcher at TECNALIA
 - I’m currently designing and working with **ETH (solidity & EVM)**, **Blockchain** and **Privacy Preserving Protocols**
 - I'm mostly active within the **Cyber Security** related stuff such as curves, groups, mappings, and their implementations. On software side, **Vue.JS**, **Go** and **IoT** hardware communities such as RPI, arduino, beaglebone or ESP32 are on my daily basis.
 - Collaborator to OSS and tech assistance to SME.
+
+### 🔥 Work in progress
+
+- PHD Student in **ETH (solidity & EVM)**, **Blockchain** and **Cybersecurity**
 
 ### 📬 Get in Touch
 
