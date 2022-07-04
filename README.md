@@ -20,7 +20,7 @@ Computer Science alumnus at [University of Deusto](https://www.deusto.es/cs/Sate
 
 ### 🔥 Work in progress
 
-- PHD Student in **ETH (solidity & EVM)**, **Blockchain** and **Cybersecurity**
+- Free time PHD Student in **ETH (solidity & EVM)**, **Blockchain** and **Cybersecurity**
 
 ### 📬 Get in Touch
 
