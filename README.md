@@ -13,8 +13,9 @@ Computer Science alumnus at [University of Deusto](https://www.deusto.es/cs/Sate
 
 - Bachelor's degree in **Computer Science** at University of Deusto
 - Master's degree in **Computer Science & Big Data** at University of Deusto
-- I’m currently working as **Cyber Security** researcher at TECNALIA
-- I’m currently designing and working with **ETH (solidity & EVM)**, **Blockchain** and **Privacy Preserving Protocols**
+- I worked as **Blockchain Engineer** and **Cyber Security** researcher at TECNALIA during 5 years
+- I’m currently working as **Blockchain Security Engineer** at CertiK
+- I’m currently designing and working with **ETH (solidity & EVM)**, **Blockchain** and **Web3/Crypto** projects
 - I'm mostly active within the **Cyber Security** related stuff such as curves, groups, mappings, and their implementations. On software side, **Vue.JS**, **Go** and **IoT** hardware communities such as RPI, arduino, beaglebone or ESP32 are on my daily basis.
 - Collaborator to OSS and tech assistance to SME.
 
