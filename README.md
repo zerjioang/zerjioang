@@ -21,13 +21,17 @@ Computer Science alumnus at [University of Deusto](https://www.deusto.es/cs/Sate
 
 ### 🔥 Work in progress
 
-- Free time PHD Student in **ETH (solidity & EVM)**, **Blockchain** and **Cybersecurity**
+- Free time PhD Student in **ETH (solidity & EVM)**, **Blockchain** and **Cybersecurity**
 
 ### 📬 Get in Touch
 
 - GitHub: https://github.com/zerjioang
 - Personal Blog: https://curiousstuff.eu
+- LinkedIn: https://www.linkedin.com/in/sergio-anguita-lorenzo
+- Side Projects Portofolio: https://www.kodegiten.eu
 
 ### 📚 Looking for my Resume? E-Mail me!
+
+- Contact Email: contact@curiousstuff.eu
 
 ![zerjioang's github stats](https://github-readme-stats.vercel.app/api?username=zerjioang&show_icons=true&hide_border=true)
