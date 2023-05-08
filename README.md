@@ -7,21 +7,23 @@
 ![Python](https://img.shields.io/badge/Python-Intermediate-green)
 ![ASM](https://img.shields.io/badge/Assembly-Beginner-yellow)
 
-Computer Science alumnus at [University of Deusto](https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto). Cyber Security researcher at [Tecnalia Research & Innovation](https://www.tecnalia.com/). Proudly from [Bilbao, Basque Country](https://www.basquecountry.eus/inicio/)
+Computer Engineering alumni at [University of Deusto](https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto). Cyber Security researcher at [Tecnalia Research & Innovation](https://www.tecnalia.com/). Proudly from [Bilbao, Basque Country](https://www.basquecountry.eus/inicio/)
 
 ### 🔨 Some background
 
-- Bachelor's degree in **Computer Science** at University of Deusto
-- Master's degree in **Computer Science & Big Data** at University of Deusto
-- I worked as **Blockchain Engineer** and **Cyber Security** researcher at TECNALIA during 5 years
+- Bachelor's degree in **Computer Engineering** at University of Deusto
+- Master's degree in **Computer Engineering & Big Data** at University of Deusto
+- I worked as **Blockchain Software Engineer** and **Cyber Security** researcher at TECNALIA during 5 years
 - I’m currently working as **Blockchain Security Engineer** at CertiK
-- I’m currently designing and working with **ETH (solidity & EVM)**, **Blockchain** and **Web3/Crypto** projects
+- I’m currently designing and working with **ETH (solidity & EVM)**, **Blockchain** and **Web3/Crypto** projects building high performance backend applications.
 - I'm mostly active within the **Cyber Security** related stuff such as curves, groups, mappings, and their implementations. On software side, **Vue.JS**, **Go** and **IoT** hardware communities such as RPI, arduino, beaglebone or ESP32 are on my daily basis.
 - Collaborator to OSS and tech assistance to SME.
 
+<!--
 ### 🔥 Work in progress
 
 - Free time PhD Student in **ETH (solidity & EVM)**, **Blockchain** and **Cybersecurity**
+-->
 
 ### 📬 Get in Touch
 
@@ -29,6 +31,7 @@ Computer Science alumnus at [University of Deusto](https://www.deusto.es/cs/Sate
 - Personal Blog: https://curiousstuff.eu
 - LinkedIn: https://www.linkedin.com/in/sergio-anguita-lorenzo
 - Side Projects Portofolio: https://www.kodegiten.eu
+- Solo Security Engineer: https://dappdata.link
 
 ### 📚 Looking for my Resume? E-Mail me!
 
