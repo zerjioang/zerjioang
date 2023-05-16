@@ -13,6 +13,8 @@ Computer Engineering alumni at [University of Deusto](https://www.deusto.es/cs/S
 
 Docker, docker-compose, terraform, AWS, Go, Gorm, Postgres, Redis, Javascript, Prometheus, Grafana/Kibana, SRE
 
+> Others: container hardening, unikernels, workload automation
+
 ### 🔨 Some background
 
 - Bachelor's degree in **Computer Engineering** at University of Deusto
