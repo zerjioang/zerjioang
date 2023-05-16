@@ -9,6 +9,10 @@
 
 Computer Engineering alumni at [University of Deusto](https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto). Cyber Security researcher at [Tecnalia Research & Innovation](https://www.tecnalia.com/). Proudly from [Bilbao, Basque Country](https://www.basquecountry.eus/inicio/)
 
+### Knowledge areas
+
+Docker, docker-compose, terraform, AWS, Go, Gorm, Postgres, Redis, Javascript, Prometheus, Grafana/Kibana, SRE
+
 ### 🔨 Some background
 
 - Bachelor's degree in **Computer Engineering** at University of Deusto
