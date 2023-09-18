@@ -36,7 +36,6 @@ Docker, docker-compose, terraform, AWS, Go, Gorm, Postgres, Redis, Javascript, P
 - GitHub: https://github.com/zerjioang
 - Personal Blog: https://curiousstuff.eu
 - LinkedIn: https://www.linkedin.com/in/sergio-anguita-lorenzo
-- Solo Security Engineer: https://dappdata.link
 
 ### 📚 Looking for my Resume? E-Mail me!
 
