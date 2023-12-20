@@ -11,7 +11,7 @@ Computer Engineering alumni at [University of Deusto](https://www.deusto.es/cs/S
 
 ### Knowledge areas
 
-Docker, docker-compose, terraform, AWS, Go, Gorm, Postgres, Redis, Javascript, Prometheus, Grafana/Kibana, SRE
+Cybersecurity, Privacy
 
 > Others: container hardening, unikernels, workload automation
 
